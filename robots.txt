@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://censyptor.github.io/censyptor.txt.gz
+Sitemap: https://censyptor.github.io/app/censyptor.txt.gz
+Sitemap: https://censyptor.github.io/assets/censyptor.txt.gz
+Sitemap: https://censyptor.github.io/css/censyptor.txt.gz
+Sitemap: https://censyptor.github.io/includes/censyptor.txt.gz
+Sitemap: https://censyptor.github.io/item/censyptor.txt.gz
+Sitemap: https://censyptor.github.io/src/censyptor.txt.gz
